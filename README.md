@@ -1,2 +1,2 @@
-# FruitCatcher
-Fruit Catcher by Hemansh Sharma
+# C40-Project
+ Debugged fruit collector 2
